@@ -30,7 +30,7 @@ Les enseignements sont dispensés par semestre.
 <a name="hypotheses-/-questions"></a>
 
 
-## 1 Datasets
+## Datasets
 
 Le Dataset principal est issu de diverses requêtes SQL émanant d'un logiciel interne de scolarité.
 
