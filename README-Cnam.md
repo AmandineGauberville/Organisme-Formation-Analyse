@@ -13,7 +13,7 @@ Amandine GAUBERVILLE
 <a name="project-description"></a>
 
 ## Project Description
-Nous tenterons dans ce projet d'analyser un organisme de formation au niveau régional sur une période de 6 ans à compter de 2014.
+Nous tenterons dans ce projet d'analyser l'offre de formation d'un organisme au niveau régional sur une période de 6 ans à compter de 2014.
 
 Le Cnam en région Centre-Val de Loire déploie une offre de formation très diversifiée de type enseignement supérieur (Bac+1 à Bac+5).
 
