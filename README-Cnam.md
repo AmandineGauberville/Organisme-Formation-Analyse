@@ -67,6 +67,8 @@ Les étapes de cette analyse de données ont été :
 ## Links
 
 [Repository](https://github.com/AmandineGauberville/CnamCVDL_EDA)  
+
 [Slides](https://drive.google.com/file/d/160RZuoULHFtDaafYZACtCP8Dfks2YGf9/view?usp=sharing)
+
 [Storytelling](https://public.tableau.com/app/profile/gauberville.amandine/viz/AnalyseCnam/Analysedeloffredeformation)
 
